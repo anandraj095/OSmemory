@@ -1,5 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/anandraj/Documents/GIT/Dynamic-Memory-Management/VA'
-relocations:     []
-...
