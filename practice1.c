@@ -9,6 +9,8 @@ int translate_address(int virtual_address, int base, int bound, int* physical_ad
     return -1;
 }
 
+
+
 int main() {
     int base = 3000; 
     int bounds = 1000; 
